@@ -42,5 +42,5 @@
 *.log
 *.lastbuildstate
 
-*/Debug/
-*/Release/
+**/Debug/**
+**/Release/**
