@@ -41,3 +41,6 @@
 *.db
 *.log
 *.lastbuildstate
+
+*/Debug/
+*/Release/
