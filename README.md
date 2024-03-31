@@ -9,9 +9,6 @@ Tutorial to the installation: https://www.youtube.com/watch?v=YfMQyOw1zik
 
 
 Checkers: Move piece of color indicated in top left corner
-
 Game Of Life: Click on cells to initialize simulation, and press space to start simulation
-
 Jump Game: Use left and right arrow keys to move character
-
 Tetris: Use left and right arrow keys to move block, up arrow to rotate block, and down to speed up block speed
